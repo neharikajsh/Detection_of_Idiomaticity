@@ -1,0 +1,1 @@
+This is a project that I worked on for my MSc. Project. I wanted to use something extra rather than using traditional machine learning techniques so I ventrured into Transformer Models and looked into their power to process texts using NLP techniques.
